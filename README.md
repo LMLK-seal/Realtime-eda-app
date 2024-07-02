@@ -5,15 +5,15 @@ This repository contains a Streamlit app that enables real-time Exploratory Data
 ## Features
 
 - **Data Upload:** Users can upload CSV or Excel files.
-- **Data Exploration:** 
+- **Data Exploration:**
     - **Filtering:** Select columns and apply filters to narrow down the data.
     - **Sorting:** Sort data by any column in ascending or descending order.
-    - **Data Subset Selection:**  Create specific subsets of data based on filters.
+    - **Data Subset Selection:** Create specific subsets of data based on filters.
 - **Real-time Visualization:**
     - Choose from scatter, bar, and line charts.
     - Select X and Y axes for visualization.
-    - Charts update in real-time as you interact with the data (filters, sorting, etc.).
-- **Statistical Computations:** 
+    - **Charts update in real-time** as you interact with the data (filters, sorting, etc.).
+- **Statistical Computations:**
     - Calculate statistics (mean, median, standard deviation) on selected data subsets.
     - Results update in real-time alongside visualization changes.
 
@@ -23,7 +23,7 @@ This repository contains a Streamlit app that enables real-time Exploratory Data
    ```bash
    git clone <repository_url>
 Use code with caution.
-Markdown
+Html
 Install Dependencies:
 cd realtime-eda-app
 pip install -r requirements.txt
