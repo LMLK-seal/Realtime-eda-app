@@ -1,7 +1,7 @@
 <h1>Real-time Exploratory Data Analysis App</h1>
 
 <p>This repository contains a Streamlit app that enables real-time Exploratory Data Analysis (EDA) of uploaded datasets.</p>
-
+<img src="https://raw.githubusercontent.com/LMLK-seal/Realtime-eda-app/main/EDApp.jpg" alt="Real-time Exploratory Data Analysis App Screenshot" style="max-width: 100%; height: auto; margin: 20px 0;">
 <h2>Features</h2>
 
 <ul>
